@@ -1,4 +1,4 @@
-# afterhour
+# AfterHour
 
 AfterHour adalah projek survival puzzle horor game pada game engine Unreal Engine
 
