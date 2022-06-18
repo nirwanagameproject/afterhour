@@ -11,7 +11,7 @@ Spesifikasi Testing
 
 ## Progress Proyek
 
-To Do | Status | Tanggal Selesai
---- | --- | ---
-Riset Flow Blueprint | Done | Senin,13 Juni 2022
-Build Tamplate Walking and Lighting | Not Yet | 
+To Do | Status | Tanggal Selesai | Referensi
+--- | --- | --- | ---
+Riset Flow Blueprint | Done | Senin,13 Juni 2022 | https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/UserGuide/Types/
+Build Tamplate Walking and Lighting | Not Yet | | https://www.youtube.com/watch?v=D0KoDCvfeck&ab_channel=EvilDoUsHarm
