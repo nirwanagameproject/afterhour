@@ -1,5 +1,23 @@
 # AfterHour
 
+<style>
+table th:first-of-type {
+    width: 10%;
+}
+table th:nth-of-type(2) {
+    width: 10%;
+}
+table th:nth-of-type(3) {
+    width: 10%;
+}
+table th:nth-of-type(4) {
+    width: 30%;
+} 
+table th:nth-of-type(5) {
+    width: 40%;
+}
+</style>
+
 AfterHour adalah projek survival puzzle horor game pada game engine Unreal Engine
 
 Spesifikasi Testing
