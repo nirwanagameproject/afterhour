@@ -1,23 +1,5 @@
 # AfterHour
 
-<style>
-table th:first-of-type {
-    width: 10%;
-}
-table th:nth-of-type(2) {
-    width: 10%;
-}
-table th:nth-of-type(3) {
-    width: 10%;
-}
-table th:nth-of-type(4) {
-    width: 30%;
-} 
-table th:nth-of-type(5) {
-    width: 40%;
-}
-</style>
-
 AfterHour adalah projek survival puzzle horor game pada game engine Unreal Engine
 
 Spesifikasi Testing
@@ -30,7 +12,7 @@ Spesifikasi Testing
 ## Progress Proyek
 
 To Do | Status | Tanggal Selesai | Referensi | Preview
---- | --- | --- | --- | ---
+----------------------------------- | -------- | ------------------- | -------------------------------------------------------------------------- |  -------------------------------------------------------------------------- 
 Riset Flow Blueprint | Done | Senin,13 Juni 2022 | https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/UserGuide/Types/ |
 Build Tamplate Walking and Lighting | Done | Sabtu,18 Juni 2022 | https://www.youtube.com/watch?v=D0KoDCvfeck&ab_channel=EvilDoUsHarm | https://github.com/nirwanagameproject/afterhour/raw/main/GIF/Build%20Tamplate%20Hide%20Interaction.gif
 Build Tamplate Hide Interaction | Done | Kamis,23 Juni 2022 | https://www.youtube.com/watch?v=gHJ4pHlqAzQ&ab_channel=MattAspland | https://github.com/nirwanagameproject/afterhour/raw/main/GIF/Build%20Tamplate%20Hide%20Interaction.gif
