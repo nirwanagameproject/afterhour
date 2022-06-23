@@ -16,7 +16,7 @@ To Do | Status | Tanggal Selesai | Referensi | Preview
 Riset Flow Blueprint | Done | Senin,13 Juni 2022 | [View](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/UserGuide/Types/) |
 Build Tamplate Walking and Lighting | Done | Sabtu,18 Juni 2022 | [View](https://www.youtube.com/watch?v=D0KoDCvfeck&ab_channel=EvilDoUsHarm) | [View](https://github.com/nirwanagameproject/afterhour/raw/main/GIF/Build%20Tamplate%20Hide%20Interaction.gif)
 Build Tamplate Hide Interaction | Done | Kamis,23 Juni 2022 | [View](https://www.youtube.com/watch?v=gHJ4pHlqAzQ&ab_channel=MattAspland) | [View](https://github.com/nirwanagameproject/afterhour/raw/main/GIF/Build%20Tamplate%20Hide%20Interaction.gif)
-Build Tamplate Book Inspecttion Rotation | Not Yet | |
+Build Tamplate Book Inspecttion Rotation | Not Yet | | [View](https://www.youtube.com/watch?v=q62hIj9sHi0&ab_channel=MattAspland)
 Build Tamplate Hud Position | Not Yet | |
 Build Tamplate AI Walking | Not Yet | |
 Build Tamplate AI Attacking | Not Yet | |
