@@ -24,3 +24,5 @@ Build Template Healthbar System | Not Yet | |
 Build Template AI Spawning System | Not Yet | |
 Build Template Radio and Sound Sytem | Not Yet | |
 Build Template Save Game | Not Yet | |
+
+[![Demo Doccou alpha](https://github.com/nirwanagameproject/afterhour/raw/main/GIF/Build%20Tamplate%20Hide%20Interaction.gif)]
