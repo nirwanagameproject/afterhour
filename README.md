@@ -25,4 +25,4 @@ Build Template AI Spawning System | Not Yet | |
 Build Template Radio and Sound Sytem | Not Yet | |
 Build Template Save Game | Not Yet | |
 
-![](https://github.com/nirwanagameproject/afterhour/raw/main/GIF/Build%20Tamplate%20Hide%20Interaction.gif "Build Tamplate Walking and Lighting")
+![](https://media.githubusercontent.com/media/nirwanagameproject/afterhour/main/GIF/Build%20Tamplate%20Hide%20Interaction.gif?token=AAR4RXXUEOEL3YCJPSLAN7LCWPRMU)
