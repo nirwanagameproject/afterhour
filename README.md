@@ -12,7 +12,7 @@ Spesifikasi Testing
 ## Progress Proyek
 
 To Do | Status | Tanggal Selesai | Referensi | Preview
---- | --- | --- | --- |  --- 
+:---: | :---: | :---: | :---: |  :---: 
 Riset Flow Blueprint | Done | Senin,13 Juni 2022 | [View](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/UserGuide/Types/) |
 Build Tamplate Walking and Lighting | Done | Sabtu,18 Juni 2022 | [View](https://www.youtube.com/watch?v=D0KoDCvfeck&ab_channel=EvilDoUsHarm) | [<img src="https://img.youtube.com/vi/yNX9ot3rsMo/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=yNX9ot3rsMo&ab_channel=FajarMuhammadFathirochman)
 Build Tamplate Hide Interaction | Done | Kamis,23 Juni 2022 | [View](https://www.youtube.com/watch?v=gHJ4pHlqAzQ&ab_channel=MattAspland) | [<img src="https://img.youtube.com/vi/JGzYg8WHdmw/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=JGzYg8WHdmw&ab_channel=FajarMuhammadFathirochman)
@@ -24,6 +24,3 @@ Build Template Healthbar System | Not Yet | |
 Build Template AI Spawning System | Not Yet | |
 Build Template Radio and Sound Sytem | Not Yet | |
 Build Template Save Game | Not Yet | |
-
-[View](https://github.com/nirwanagameproject/afterhour/raw/main/GIF/Build%20Tamplate%20Hide%20Interaction.gif)
-[View](https://github.com/nirwanagameproject/afterhour/raw/main/GIF/Build%20Tamplate%20Hide%20Interaction.gif)
