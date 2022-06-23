@@ -14,8 +14,8 @@ Spesifikasi Testing
 To Do | Status | Tanggal Selesai | Referensi | Preview
 --- | --- | --- | --- | ---
 Riset Flow Blueprint | Done | Senin,13 Juni 2022 | https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/UserGuide/Types/ |
-Build Tamplate Walking and Lighting | Done | Sabtu,18 Juni 2022 | https://www.youtube.com/watch?v=D0KoDCvfeck&ab_channel=EvilDoUsHarm | ![alt text](https://raw.githubusercontent.com/nirwanagameproject/ResearchBlueprint/main/GIF/Build%20Tamplate%20Walking%20and%20Lightning.gif "Build Tamplate Walking and Lighting")
-Build Tamplate Hide Interaction | Done | Kamis,23 Juni 2022 | https://www.youtube.com/watch?v=gHJ4pHlqAzQ&ab_channel=MattAspland | ![alt text](https://raw.githubusercontent.com/nirwanagameproject/ResearchBlueprint/main/GIF/Build%20Tamplate%20Hide%20Interaction.gif "Build Tamplate Hide Interaction")
+Build Tamplate Walking and Lighting | Done | Sabtu,18 Juni 2022 | https://www.youtube.com/watch?v=D0KoDCvfeck&ab_channel=EvilDoUsHarm | [](https://raw.githubusercontent.com/nirwanagameproject/ResearchBlueprint/main/GIF/Build%20Tamplate%20Walking%20and%20Lightning.gif "Build Tamplate Walking and Lighting")
+Build Tamplate Hide Interaction | Done | Kamis,23 Juni 2022 | https://www.youtube.com/watch?v=gHJ4pHlqAzQ&ab_channel=MattAspland | [](https://raw.githubusercontent.com/nirwanagameproject/ResearchBlueprint/main/GIF/Build%20Tamplate%20Hide%20Interaction.gif "Build Tamplate Hide Interaction")
 Build Tamplate Book Inspecttion Rotation | Not Yet | |
 Build Tamplate Hud Position | Not Yet | |
 Build Tamplate AI Walking | Not Yet | |
