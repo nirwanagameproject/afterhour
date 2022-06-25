@@ -16,6 +16,7 @@ Control Game
   - Backward ( Press S )
   - Right ( Press D )
 - Jump (Press Space)
+- Switch On/Off Flashlight (Press F)
 - Hide (Press H)
 - Inspect/PutBack Item (Press E)
 - Rotate View (Mouse Axis)
