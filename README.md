@@ -11,10 +11,10 @@ Spesifikasi Testing
 
 Controll Game
 - Walking
- - Forward ( Press W ) 
- - Left ( Press A )
- - Backward ( Press S )
- - Right ( Press D )
+  - Forward ( Press W ) 
+  - Left ( Press A )
+  - Backward ( Press S )
+  - Right ( Press D )
 - Jump (Press Space)
 - Hide (Press H)
 - Inspect/PutBack Item (Press E)
