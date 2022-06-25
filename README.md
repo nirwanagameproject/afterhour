@@ -9,7 +9,7 @@ Spesifikasi Testing
 - RAM : 24 GB
 - Game Engine : Unreal Engine 5.0.2
 
-Controll Game
+Control Game
 - Walking
   - Forward ( Press W ) 
   - Left ( Press A )
