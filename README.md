@@ -43,10 +43,10 @@ Build Template Save Game | Not Yet | |
 Download Lastest release [here](https://github.com/nirwanagameproject/afterhour/releases/tag/0.0.5)
 
 Verify download:
-- MD5 Hash : f518709d70fca4cba39a322b48e45705
-- SHA-256 Hash : d24bf2d9b58da417914e9ba9934f6ede821a542c225fba249f8ae1c7d54b547b
+- MD5 Hash : a8cce46415180c1ac554108e36af0f29
+- SHA-256 Hash : 6c36dddc90234a11b2edc6f969931ca9299b1663fe236a5459b5fb9d9f5f04ae
 
-Scanning virus result in virustotal [here](https://www.virustotal.com/gui/file/d24bf2d9b58da417914e9ba9934f6ede821a542c225fba249f8ae1c7d54b547b/detection)
+Scanning virus result in virustotal [here](https://www.virustotal.com/gui/file/6c36dddc90234a11b2edc6f969931ca9299b1663fe236a5459b5fb9d9f5f04ae/detection)
 - clean for All vendor AV
 
-![Afterhour Alpha 0.0.4 scanning](https://github.com/nirwanagameproject/afterhour/raw/main/Screenshot/Afterhour%20Alpha%200.0.4%20scanning.png)
+![Afterhour Alpha 0.0.5 scanning](https://github.com/nirwanagameproject/afterhour/raw/main/Screenshot/Afterhour%20Alpha%200.0.5%20scanning.png)
