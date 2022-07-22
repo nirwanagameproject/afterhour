@@ -37,3 +37,15 @@ Build Template Healthbar System | Not Yet | |
 Build Template AI Spawning System | Not Yet | |
 Build Template Radio and Sound Sytem | Not Yet | |
 Build Template Save Game | Not Yet | |
+
+## Lastest Release
+
+Download Lastest release [here](https://github.com/nirwanagameproject/afterhour/releases/tag/0.0.5)
+
+Verify download:
+- MD5 Hash : f518709d70fca4cba39a322b48e45705
+- SHA-256 Hash : d24bf2d9b58da417914e9ba9934f6ede821a542c225fba249f8ae1c7d54b547b
+
+Scanning virus result in virustotal [here](https://www.virustotal.com/gui/file/d24bf2d9b58da417914e9ba9934f6ede821a542c225fba249f8ae1c7d54b547b/detection)
+- clean for All vendor AV
+![Afterhour Alpha 0.0.4 scanning](https://github.com/nirwanagameproject/afterhour/raw/main/ScreenshotAfterhour Alpha 0.0.4 scanning.png)
