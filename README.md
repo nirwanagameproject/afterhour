@@ -2,12 +2,21 @@
 
 AfterHour adalah projek survival puzzle horor game pada game engine Unreal Engine
 
-Spesifikasi Testing
+Spesifikasi Testing Old Project
+Build Tamplate AI Walking - Build Tamplate AI Walking
 - Sistem Operasi : Windows 10 Pro 64 Bit
 - Prosesor : Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz 3.60 GHz
 - GPU : Nvidia GTX 1080 Ti
 - RAM : 24 GB
 - Game Engine : Unreal Engine 5.0.2
+
+Spesifikasi Testing Old Project
+Build Tamplate Map Dummy - Now
+- Sistem Operasi : Windows 10 Pro 64 Bit
+- Prosesor : Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz   3.60 GHz
+- GPU : Nvidia GTX 1060 6 GB
+- RAM : 16 GB
+- Game Engine : Unreal Engine 5.0.3
 
 Control Game
 - Walking
