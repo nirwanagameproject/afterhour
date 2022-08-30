@@ -65,3 +65,7 @@ Scanning virus result in virustotal [here](https://www.virustotal.com/gui/file/6
 - clean for All vendor AV
 
 ![Afterhour Alpha 0.0.5 scanning](https://github.com/nirwanagameproject/afterhour/raw/main/Screenshot/Afterhour%20Alpha%200.0.5%20scanning.png)
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>
